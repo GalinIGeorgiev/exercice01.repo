@@ -1,1 +1,3 @@
-Conflict resolved!
+This project will contain...
+Repository made for exercices.
+Hello, again!!!!!!!!!
